@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waleedrafique-portfolio.dev/sitemap.xml
